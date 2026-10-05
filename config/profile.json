@@ -1,0 +1,89 @@
+{
+  "name": "Saptarshi Mondal",
+  "github_username": "Sap1x",
+  "shell_user": "saptarshi",
+  "location": "Kolkata, India",
+  "headline": "AI/ML Engineer · Software Systems Builder · Researcher",
+  "bio": "Final-year Computer Science Engineering student and Meta OpenEnv Hackathon Grand Finalist (Top 0.02% in India) focused on scalable software systems, AI-driven applications, and distributed backend architectures.",
+  "objective": "Final-year Computer Science Engineering student and Meta OpenEnv Hackathon Grand Finalist (Top 0.02% in India) passionate about building scalable software systems, AI-driven applications, and distributed backend architectures. Experienced in Python, Java, PyTorch, TensorFlow, FastAPI, Cloud Computing, and System Design, with a strong focus on performance, scalability, and production-grade engineering.",
+  "email": "mondalsaptarshi143@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/saptarshi-mondal-a4428b305",
+  "google_scholar": "https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=eNhrp9gAAAAJ",
+  "orcid": "https://orcid.org/0009-0003-4511-7827",
+  "portfolio": "https://iamsaptarshimondal.odoo.com",
+  "leetcode": "https://leetcode.com/u/Saptarshi_Mondal_2025/",
+  "github": "https://github.com/Sap1x",
+  "education": {
+    "institution": "Adamas University",
+    "degree": "B.Tech in Computer Science and Engineering (AI & ML)",
+    "period": "2023 – 2027",
+    "graduation": "06/2027",
+    "cgpa": "7.89"
+  },
+  "experience": [
+    {
+      "role": "Software Engineering Research Intern",
+      "organization": "Indian Institute of Technology (IIT) Kharagpur, Department of Aerospace Engineering",
+      "period": "Jun 2026 – Aug 2026",
+      "mode": "Hybrid",
+      "highlights": [
+        "Built a scalable event-driven Edge–Cloud IoDT architecture using EventBus/Observer Pattern, orchestrating IoT sensors, UAV missions, edge inference, cloud analytics, and real-time Digital Twin synchronization.",
+        "Designed a loosely coupled hybrid edge–cloud pipeline across LoRaWAN, MQTT, Wi-Fi, 5G, and FANET, enabling distributed processing and independent component scaling.",
+        "Achieved 100% field coverage, 32.54 ms average end-to-end latency, and 97% mission reliability through Python-based simulation and end-to-end performance evaluation."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "CodeRL++",
+      "subtitle": "Self-Improving Agentic Code Review RL Environment",
+      "tag": "Meta Hackathon Finalist",
+      "url": "https://github.com/Sap1x/CodeRL-",
+      "technologies": "Python · FastAPI · PyTorch · Hugging Face · GRPO · Unsloth · Docker · Redis · Qwen2.5 · Llama 3",
+      "highlights": [
+        "Built and deployed an OpenEnv-compliant RL environment for autonomous LLM-based code review, enabling agents to detect, fix, and validate issues through multi-stage reasoning.",
+        "Developed a self-improving RL pipeline with cross-episode memory and composite rewards, improving recall by 138%, critical bug detection by 188%, and reducing false positives by 57% over 3K+ GRPO steps.",
+        "Engineered a FastAPI + Redis + Docker production system delivering real-time inference (~1.2s latency) with automated evaluation pipelines."
+      ]
+    },
+    {
+      "name": "UrbanFlow OPS",
+      "subtitle": "AI Traffic Operations & Digital Twin Platform",
+      "tag": "Flipkart GRiD 2.0 Semi-Finalist",
+      "url": "https://github.com/Sap1x/UrbanFlow-AI",
+      "technologies": "XGBoost · Random Forest · SHAP · SciPy · NetworkX · Digital Twin · GIS · Event-Driven Microservices",
+      "highlights": [
+        "Built an AI traffic intelligence platform using 90K+ Bengaluru traffic records, leveraging XGBoost, Random Forest & SHAP for explainable congestion prediction.",
+        "Architected an event-driven microservices backend with FastAPI/WebSockets, Digital Twin simulation, and SciPy/NetworkX optimization for 1000+ simultaneous incidents.",
+        "Delivered sub-100ms ML inference and automated resource optimization, achieving 94.3% simulated cost savings and reaching the Flipkart GRiD 2.0 Semi-Finals."
+      ]
+    }
+  ],
+  "skills": {
+    "languages": ["Python", "C++", "C", "SQL"],
+    "backend": ["Node.js", "Express.js", "FastAPI", "REST APIs", "WebSockets", "WebRTC"],
+    "frontend": ["Next.js", "HTML5", "CSS3"],
+    "cloud": ["Docker", "CI/CD", "AWS", "Azure"],
+    "data": ["PostgreSQL", "MongoDB", "Supabase", "Firebase", "Redis", "CDNs"],
+    "ai_systems": ["PyTorch", "TensorFlow", "Hugging Face Transformers", "Multi-Agent Systems", "RL (GRPO/PPO)", "RAG", "Vector Databases", "LangChain [Smith/Fleet]", "Federated Learning", "Real-time Systems", "OAuth 2.0", "DSA", "OOP"]
+  },
+  "publications": [
+    "S. Das, B. Pradhan, S. Mondal, S. Halder, S. Gupta. Enhancing Object Identification Using Deep Learning Algorithms for Assisting Disabled Individuals. Lecture Notes in Networks and Systems, Springer, 2025.",
+    "S. Mondal, S. Das, S. Halder. Integrating Deep Learning-Based Object Detection into Assistive Systems for Dynamic Accessibility Challenges. Published - IEEE SISIMPACT International Conference, 2025."
+  ],
+  "publication_links": [
+    "https://link.springer.com/chapter/10.1007/978-981-96-5822-0_17",
+    "https://ieeexplore.ieee.org/document/11439520"
+  ],
+  "achievements": [
+    "Meta OpenEnv Hackathon Grand Finalist (Top 0.02% in India) — Competed in the 48-hour Grand Finale in Bangalore, building scalable AI systems alongside engineers from top tech companies.",
+    "Flipkart GRiD 2.0 Semi-Finalist — Built and submitted UrbanFlow OPS, an AI-driven traffic intelligence platform integrating predictive analytics, Digital Twin simulation, and real-time resource optimization.",
+    "Secured 7th rank in Data Structures & Algorithms Competition, CAPE Laboratory, IIT Kharagpur (2025).",
+    "Oracle Cloud Infrastructure 2025 Certified Developer Professional — Credential ID: 102958533OCID25CP.",
+    "AWS Academy Graduate – Generative AI Foundations — Training Badge."
+  ],
+  "credential_links": [
+    "https://catalog-education.oracle.com/pls/certview/sharebadge?id=95BCBF1053D9A7D951FF8525B8FB8A7E71D639A647812AB12EB4853AC352A2F5",
+    "https://www.credly.com/badges/0678a8a1-1cb4-4cd6-a1e3-a317b2ff2aaa"
+  ]
+}
