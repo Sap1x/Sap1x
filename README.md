@@ -9,7 +9,7 @@
 <h3><code>saptarshi@github ~ $ ./links.sh</code></h3>
 <p><b>AI/ML Engineer · Software Systems Builder · Researcher</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-iamsaptarshimondal-0d1117?style=for-the-badge&logo=odoo&logoColor=white)](https://iamsaptarshimondal.odoo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-iamsaptarshimondal-0d1117?style=for-the-badge&logo=odoo&logoColor=white)](https://saptarshi-portfolio-official.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Saptarshi_Mondal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptarshi-mondal-a4428b305)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=eNhrp9gAAAAJ)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--4511--7827-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-4511-7827)
